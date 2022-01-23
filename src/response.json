@@ -1,0 +1,42 @@
+[
+{
+    "ip":"2601:44:8900:25f0:952f:3480:ed21:b64f",
+    "location":"Westgate 300",
+    "start_time":"2012-04-23T6:25",
+    "end_time":"2012-04-23T8:25",
+    "detail":"Westgate IST 420",
+    "order":"1"
+},
+{
+    "ip":"3601:44:8900:25f0:952f:3480:ed21:b64f",
+    "location":"Willard 210",
+    "start_time":"2012-05-23T18:25",
+    "end_time":"2012-05-23T19:25",
+    "detail":"Willard ECON 302",
+    "order":"2"
+},
+{
+    "ip":"4601:44:8900:25f0:952f:3480:ed21:b64f",
+    "location":"Thomas 100",
+    "start_time":"2012-06-23T5:25",
+    "end_time":"2012-06-23T8:25",
+    "detail":"Thomas ECON 304",
+    "order":"3"
+},
+{
+    "ip":"5601:44:8900:25f0:952f:3480:ed21:b64f",
+    "location":"Kern 210",
+    "start_time":"2012-06-23T9:25",
+    "end_time":"2012-06-23T10:25",
+    "detail":"Kern IST 110",
+    "order":"4"
+},
+{
+    "ip":"6601:44:8900:25f0:952f:3480:ed21:b64f",
+    "location":"Chamber 100",
+    "start_time":"2012-07-23T22:25",
+    "end_time":"2012-07-23T23:25",
+    "detail":"Chamber BISC 4",
+    "order":"5"
+}
+]
